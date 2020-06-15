@@ -1,13 +1,11 @@
 limit=100
 sleep 1
-echo "\033[031m ▇▇▇▇▇▇▇"
-echo "\033[037m ▇▇▇▇▇▇▇"
-echo "\033[031mSELAMAT DATANG \033[037mDi Tools Apmz"
+echo "\033[031m welcome \033[037mDi Tools Apmz"
 sleep 1
 echo -n "what is your Name?type it:"
 read Name;
 sleep 2
-echo "Hello Mr/ Mrs \033[036m[$nama]"
+echo "Hello Mr/ Mrs \033[036m[$Name]"
 sleep 1
 echo "\033[037mJangan Lupa subscribe channel admin woke:)"
 sleep 1
@@ -34,8 +32,4 @@ echo "anda salah memasukan input!!!!"
 sleep 2
 sh hek.sh
 fi
-clear
-sleep 1
-python2 loding692
-sleep 1
 clear
