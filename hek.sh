@@ -1,13 +1,11 @@
 limit=100
 sleep 1
-echo "\033[031m welcome \033[037mDi Tools Apmz"
+echo " WELCOME TO YOU"
 sleep 1
-echo -n "what is your Name?type it:"
+echo -n "what is your Name?:"
 read Name;
 sleep 2
 echo "Hello Mr/ Mrs \033[036m[$Name]"
-sleep 1
-echo "\033[037mJangan Lupa subscribe channel admin woke:)"
 sleep 1
 clear
 echo -n "Did you subscribed my youtube channel ? y/n :"
